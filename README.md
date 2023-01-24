@@ -1,6 +1,6 @@
 # Uffizzi Quickstart (~ 1 minute)
 
-Go from pull request to Uffizzi Preview Environment in less than 10 min
+Go from pull request to Uffizzi Preview Environment in less
 
 ### 1. Fork this repo
 
